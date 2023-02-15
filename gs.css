@@ -1,0 +1,34 @@
+.speech{
+font-size:12px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: black;
+}
+.direction{
+    font-size: 10px;
+    color: black;
+    background-color: beige;
+
+
+}
+.direction:hover{
+    background-color: blue;
+    color:brown;
+
+
+}
+.LUKA{
+    font-size: 15px;
+    color: red;
+
+}
+.MRSPOPOV{
+    font-size: 15px;
+    color: brown;
+}
+.tablestyle{
+    border: 2px;
+    color: black;
+    text-align:center;
+    padding: 2px;
+    margin: 1px;
+}
